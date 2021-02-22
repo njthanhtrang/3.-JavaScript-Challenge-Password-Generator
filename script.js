@@ -51,8 +51,7 @@ function generatePassword() {
   }
 
   if (hasLowercase === false && hasUppercase === false && hasNumbers === false && hasSpecial === false) {
-    alert("Please select at least one character type.");
-    generatePassword();
+    return "Please select at least one character type.";
   };
 
   // group selected characters
