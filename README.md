@@ -23,3 +23,7 @@ https://njthanhtrang.github.io/3.-JavaScript-Challenge-Password-Generator/.
 # License
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
+<img width="854" alt="Screen Shot 2021-02-21 at 5 57 19 PM" src="https://user-images.githubusercontent.com/77700824/108660657-e49b8c80-747f-11eb-8a35-4322a1a4ecd1.png">
+<img width="465" alt="Screen Shot 2021-02-21 at 5 57 49 PM" src="https://user-images.githubusercontent.com/77700824/108660797-ecf3c780-747f-11eb-93d8-6f9590f27175.png">
+<img width="453" alt="Screen Shot 2021-02-21 at 5 58 01 PM" src="https://user-images.githubusercontent.com/77700824/108660857-f0874e80-747f-11eb-801a-8edb37cf7950.png">
+<img width="837" alt="Screen Shot 2021-02-21 at 5 58 23 PM" src="https://user-images.githubusercontent.com/77700824/108660883-f2511200-747f-11eb-8d1f-6cf2637dda96.png">
